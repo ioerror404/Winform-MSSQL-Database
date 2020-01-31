@@ -1,0 +1,12 @@
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\WinFormDB.exe
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\WinFormDB.deps.json
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\WinFormDB.runtimeconfig.json
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\WinFormDB.runtimeconfig.dev.json
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\WinFormDB.dll
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\WinFormDB.pdb
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\obj\Debug\netcoreapp3.0\WinFormDB.csprojAssemblyReference.cache
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\obj\Debug\netcoreapp3.0\WinFormDB.AssemblyInfoInputs.cache
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\obj\Debug\netcoreapp3.0\WinFormDB.AssemblyInfo.cs
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\obj\Debug\netcoreapp3.0\WinFormDB.dll
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\obj\Debug\netcoreapp3.0\WinFormDB.pdb
+C:\Users\Mr Brains\source\repos\WinFormDB\WinFormDB\bin\Debug\netcoreapp3.0\Form1.cs
